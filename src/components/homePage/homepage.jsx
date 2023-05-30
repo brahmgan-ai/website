@@ -15,7 +15,7 @@ export default function HomePage() {
     image1: '/icons/GamePad.svg',
     title1: 'Game',
     content1: 'Learn how brahmGAN is going to revolutionize gaming with NeRF and GAN Tech',
-    image2: '/icons/Vr.svg',
+    image2: '/icons/VR.svg',
     title2: 'XR',
     content2: 'We help industries with tools such as 3D AR filters, 3D XR Viewers, XR related plugins to make 3D viewing easier.',
     image3: '/icons/Cart.svg',
