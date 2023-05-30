@@ -14,12 +14,12 @@ export default function Features(){
             </div>
             <div className='featurecontainer'>
                 <div style={{marginBottom:'20px'}} className='featurecontainerbox'>
-                    <img className='imageconatiner' src={'icons/speed.svg'} alt={''} />
+                    <img className='imageconatiner' src={'icons/Speed.svg'} alt={''} />
                     <h4 style={{margin:'0px', marginLeft:'20px', marginTop:'10px'}}>Speed</h4>
                     <p style={{margin:'0px', marginLeft:'20px', marginTop:'10px'}}>Boost speed of assets creation using Tridev our Asset Creation app.</p>
                 </div>
                 <div className='featurecontainerbox'>
-                    <img className='imageconatiner' src={'icons/users.svg'} alt={''} />
+                    <img className='imageconatiner' src={'icons/Users.svg'} alt={''} />
                     <h4 style={{margin:'0px', marginLeft:'20px', marginTop:'10px'}}>Users</h4>
                     <p style={{margin:'0px', marginLeft:'20px', marginTop:'10px'}}>With global cult like followers, get 3D model of any object you want in instant, through the power of blockchain.</p>
                 </div>
