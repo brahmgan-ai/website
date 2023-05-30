@@ -6,7 +6,7 @@ import Section2 from '../solutionsection2/solutionsection2.component'
 export default function technologies()
 {
     const data1={
-        picture:'/icons/ai(golden).svg',
+        picture:'/icons/Ai(golden).svg',
         heading:'Technologies',
         description:'Our company is dedicated to using cutting-edge AI technologies like GAN and NeRF. Through these powerful tools, we are able to create incredibly realistic 3D models with stunning detail and accuracy. Our integration with machine learning and AI allows us to automate many aspects of the model creation process, making it faster and more efficient than ever before. By leveraging the power of AI, we can provide our clients with customized solutions that meet their exact needs, from gaming environments to eCommerce product showcases. At our core, we believe that AI technology is the future of digital creation, and we are excited to be at the forefront of this innovative field.'
     }
