@@ -6,7 +6,7 @@ export default function solutionSection3Content ({ data })
   return (
     <div className='content1'>
     <section>
-        <iframe className='iframeBox' src={data.iframe} title={''} />
+        <iframe className='iframeBox' src={data.iframe} title={' '} />
     </section>
     <br />
     <div className='container3'>

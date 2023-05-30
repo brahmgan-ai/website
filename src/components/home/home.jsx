@@ -1,4 +1,3 @@
-import NavBar from '../nav-bar/nav-bar.component'
 import HeroSection from '../HeroSection/hersosection.component'
 import HomeSection1 from '../homesection1/homesection1.component'
 import Features from '../features/feature.component'

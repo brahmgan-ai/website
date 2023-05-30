@@ -1,5 +1,4 @@
 import './contactSection.css'
-import {Link} from 'react-router-dom'
 
 export default function ContactSection(){
 
@@ -7,7 +6,7 @@ export default function ContactSection(){
 
         <div className='contactContainer'>
             <div className='contactheader'>
-                <img src={'/icons/brahmGAN.png'} height={100} width={100}/>
+                <img src={'/icons/brahmGAN.png'} height={100} width={100}  alt={''} />
             </div>
             <div className='contactsubsection'>
                 <div className='contactInformation'>
@@ -38,8 +37,8 @@ export default function ContactSection(){
             </div>
             <div className='socialLinks'>
                     <h4>Quick Links</h4>
-                    <a><p>Terms&Condition</p></a>
-                    <a><p>Privacy policies</p></a>
+                    <a href=' ' ><p>Terms&Condition</p></a>
+                    <a href=' ' ><p>Privacy policies</p></a>
                 </div>
                 <div className='socialLinks'>
                     <h4>Follow</h4>

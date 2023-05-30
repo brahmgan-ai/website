@@ -21,7 +21,7 @@ export default function solutionSection1 ({ data })
             </div>
             <br />
             <div className='row'>
-                <iframe className='iframe' src={data.iframe} title={''} />
+                <iframe className='iframe' src={data.iframe} title={' '} />
             </div>
             </div>
         </>

@@ -25,7 +25,7 @@ const HamburgerMenu = () => {
       <div style={{marginLeft:'20px'}}><img src={'/icons/brahmlogo.png'} alt={''} width={100} height={100} /></div>
       </Link>
       <button style={{display:'flex'}} className="hamburger" onClick={toggleMenu}>
-       <img src={'/icons/hamburger.svg'} />
+       <img src={'/icons/hamburger.svg'} alt={' '} />
       </button>
       <nav className={`menu ${isOpen ? 'open' : ''}`} style={{display:'flex', flexDirection:'row'}}>
       <button style={{display:'flex', justifyContent:'flex-start', backgroundColor:'#fff', border:'none', marginTop:'10px',cursor: 'pointer'}} onClick={toggleMenu}><img src={'/icons/close.svg'} alt={''} width={40} height={40} /></button>
@@ -34,7 +34,7 @@ const HamburgerMenu = () => {
           <li onClick={toggleMenu}>Home</li></Link>
          
             <Link to='/solutions'><span onClick={toggleSolutions} className="dropdown-button">
-              Solutions<img src={isSolutionsOpen ? '/icons/up.svg' : 'icons/down.svg'} />
+              Solutions<img src={isSolutionsOpen ? '/icons/up.svg' : 'icons/down.svg'} alt={''} />
             </span></Link>
             <ul className={`submenu ${isSolutionsOpen ? 'open' : ''}`}>
               <Link to='/ecommerce'>
@@ -51,7 +51,7 @@ const HamburgerMenu = () => {
           <li onClick={toggleMenu}>Technologies</li></Link>
           
           <Link to='/about'><span onClick={toggleAbout} className="dropdown-button">
-              About <img src={isAboutOpen ? '/icons/up.svg' : 'icons/down.svg'} />
+              About <img src={isAboutOpen ? '/icons/up.svg' : 'icons/down.svg'} alt={''} />
             </span></Link>
             <ul className={`submenu ${isAboutOpen ? 'open' : ''}`}>
               <Link to='/about'>

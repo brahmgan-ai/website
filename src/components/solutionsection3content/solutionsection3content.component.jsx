@@ -12,7 +12,7 @@ export default function solutionSection3Content ({ data })
                 <button className='btn1'>Contact Us for Demo</button>
             </div>
             <div>
-                <iframe className='iframeBox' src={data.iframe} title={''} scrolling='no'  />
+                <iframe className='iframeBox' src={data.iframe} title={' '} scrolling='no'  />
             </div>
         </div>
         </>

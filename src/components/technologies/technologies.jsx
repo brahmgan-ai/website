@@ -1,5 +1,4 @@
 import './technologies.css'
-import Quotes from '../quote/quote.component'
 import IntroductionSection from '../introsection/introsection.component'
 import FAQSection from '../FAQSection/FAQSection.component';
 import Section2 from '../solutionsection2/solutionsection2.component'

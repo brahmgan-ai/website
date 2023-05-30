@@ -1,7 +1,5 @@
 import './solution.css'
 import IntroSection from '../introsection/introsection.component';
-import Questions from '../questions/questions.component'
-import Quotes from '../quote/quote.component'
 import FAQSection from '../FAQSection/FAQSection.component';
 
 export default function solutions()
