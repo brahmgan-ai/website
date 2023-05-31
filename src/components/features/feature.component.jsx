@@ -24,7 +24,7 @@ export default function Features(){
                     <p style={{margin:'0px', marginLeft:'20px', marginTop:'10px'}}>With global cult like followers, get 3D model of any object you want in instant, through the power of blockchain.</p>
                 </div>
                 <div className='featurecontainerbox'>
-                    <img className='imageconatiner' src={'icons/GameReady.svg'} alt={''} />
+                    <img className='imageconatiner' src={'icons/Gameready.svg'} alt={''} />
                     <h4 style={{margin:'0px', marginLeft:'20px', marginTop:'10px'}}>Game Ready</h4>
                     <p style={{margin:'0px', marginLeft:'20px', marginTop:'10px'}}>Generated assets are Game Ready assets with instant import and delighting for use with in game lights.</p>
                 </div>
