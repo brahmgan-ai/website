@@ -22,7 +22,7 @@ export default function about(){
                         
                     </div>
                     <div className='subcolum'>
-                        <img  style={{borderRadius:'30px'}} src={'icons/kiruba.jpg'}  alt={''} />
+                        <img  style={{borderRadius:'30px'}} src={'icons/Kiruba.jpg'}  alt={''} />
                         <h4 style={{margin:'10px 0 auto 0'}}>Kirubakaran Reddy</h4>
                         <h5 style={{margin:'0px'}}>CBO & Co-founder</h5>
                         
