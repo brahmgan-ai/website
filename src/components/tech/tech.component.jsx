@@ -10,7 +10,7 @@ export default function Tech(){
             <div className='ButtonContainer'>
                 <h3 style={{fontSize:'26px',fontWeight:'200px'}}>With cutting edge
                       technologies from around the world creating the future of 3D design and gaming!</h3>
-                <button className='buttons' onClick={()=>setImagebox('icons/gan.svg')}>
+                <button className='buttons' onClick={()=>setImagebox('icons/Gan.svg')}>
                     <img  style={{height:'80px',width:'80px', marginRight:'20px'}} src={'icons/gan.png'} alt={' '} />   GAN</button>
                 <button className='buttons' onClick={()=>setImagebox('icons/Nerf.svg')}>
                     <img  style={{height:'80px',width:'80px',marginRight:'20px'}} src={'icons/Nerf.png'} alt={' '} />    Nerf</button>
