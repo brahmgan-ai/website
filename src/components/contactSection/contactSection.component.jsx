@@ -13,15 +13,14 @@ export default function ContactSection(){
                     <h4>Contact</h4>
                     <div className='contacts'>
                         <div className='contactDetails'>
-                            <p>500 Terry Francine Street 
-                            San Francisco, CA 94158</p>
+                            <p>3 FRASER STREET #05-25, DUO TOWER, 189352, Singapore</p>
                         </div>
                         <div className='contactDetails'>
                                 <p>Sales:
-                                Sales@brahmgan.com</p>
+                                karan@brahmgan.com</p>
                         </div>
                     </div>
-                    <div className='contacts'>
+                    {/* <div className='contacts'>
                         <div className='contactDetails'>
                              <p>General Inquiries:
                             123-456-7890</p>
@@ -30,23 +29,22 @@ export default function ContactSection(){
                             <p>Customer Care:
                             info@brahmgan.com</p>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
                 <div>
 
             </div>
-            <div className='socialLinks'>
+            {/* <div className='socialLinks'>
                     <h4>Quick Links</h4>
                     <a href=' ' ><p>Terms&Condition</p></a>
                     <a href=' ' ><p>Privacy policies</p></a>
-                </div>
-                <div className='socialLinks'>
+                </div> */}
+                {/* <div className='socialLinks'>
                     <h4>Follow</h4>
                     <p>Sign up to get the latest news on our product.</p>
                     <input type="email" style={{backgroundColor:'#FFBF23', border:'1px solid black'}} ></input>
                     <button style={{backgroundColor:'black', color:'white'}}>Send</button>
-                </div>
-              
+                </div> */}           
             </div>
         </div>
     )

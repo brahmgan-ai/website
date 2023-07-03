@@ -7,7 +7,7 @@ export default function Tech(){
 
     return(
         <div className='techContainer'>
-            <div className='ButtonContainer'>
+            {/* <div className='ButtonContainer'>
                 <h3 style={{fontSize:'26px',fontWeight:'200px'}}>With cutting edge
                       technologies from around the world creating the future of 3D design and gaming!</h3>
                 <button className='buttons' onClick={()=>setImagebox('icons/Gan.svg')}>
@@ -19,7 +19,7 @@ export default function Tech(){
             </div>
             <div className='detailimagecontainer'>
                 <img style={{objectFit:'cover'}} src={imagebox} alt={''} />
-            </div>
+            </div> */}
         </div>
     )
 }

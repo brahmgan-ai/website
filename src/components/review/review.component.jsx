@@ -4,7 +4,7 @@ export default function review(){
 
     return(
         <div className='reviewContainer'>
-            <div className='reviewHeader'>
+            {/* <div className='reviewHeader'>
            <h2 style={{fontSize:'36px'}}> What Our Clients Say</h2>
             </div>
             <div className='reviewiconscontainer'>
@@ -26,7 +26,7 @@ export default function review(){
                 <p style={{marginLeft:'80px', marginTop:'40px'}}>Claire Brooks, MI</p>
                 </div>
             </div>
-        </div>
+        </div> */}
         </div>
     )
 }

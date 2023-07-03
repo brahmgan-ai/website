@@ -47,7 +47,7 @@ return(
         <video src={'video/Voxel.webm'} autoPlay loop muted className='videocontainer' ></video>
     </div>
     <Section2 data={data2} />
-    <FAQSection data={faqData} />
+    {/* <FAQSection data={faqData} /> */}
 
     </>
 );

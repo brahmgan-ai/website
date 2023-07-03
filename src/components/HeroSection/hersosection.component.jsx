@@ -9,11 +9,13 @@ export default function heroSection(){
             <div className="overlay">
                 <div style={{ width: "500px" }}>
 
-                    <h1 className="h1intro">Introducing AI Generation</h1>
+                    <h1 className="h1intro">3D Generative AI</h1>
                 </div>
-                <p className='intropar'>Create amazing 3D content effortlessly with our text-to-3D tools.Our advanced technology uses NeRF, GAN, and Blockchain for fast, decentralized AI-based 3D content creation.With BrahmGAN, bring your ideas to life instantly, without technical expertise or complex software.Explore the future of 3D content creation and unlock your creativity.</p>
+                <p className='intropar'>To make asset generation 5x faster, 5x cheaper and 4x photorealistic. <br></br><br></br>
+                With our Video to 3D product you can just take a video of any object (your car or your table action figure) and bring it to the Metaverse!
+                </p>
 
-                <button className='introbtn'>Learn More</button>
+                <button className='introbtn'><a href='https://app.brahmgan.com' target="_blank">Try Now</a></button>
             </div>
         </section>
     

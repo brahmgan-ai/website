@@ -4,7 +4,7 @@ export default function CreativeSection(){
 
     return(
         <div className='creative'>
-            <div className='videioConatiner'>
+            {/* <div className='videioConatiner'>
                 <video className='videioConatiner' src={'video/Voxel.webm'} autoPlay loop muted></video>
             </div>
             <div className='detailsContainer'>
@@ -24,7 +24,7 @@ export default function CreativeSection(){
                         <p style={{marginLeft:'10px'}}>about icon</p>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </div>
     )
 }

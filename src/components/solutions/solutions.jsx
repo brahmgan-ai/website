@@ -40,25 +40,25 @@ return(
         <img style={{borderRadius:'30px', height:'270px', width:'330px'}} src={'icons/Cat House.webp'} alt={''} />
         <h2 style={{margin:'0px'}}>Gaming</h2>
         <p style={{margin:'10px'}}>We provide gaming studios with tech stack to create 3D models easily.</p>
-        <button className='button2'>Know more</button>
+        {/* <button className='button2'>Know more</button> */}
     </div>
     <div className='subsectioncontainer'>
         <img style={{borderRadius:'30px', height:'270px', width:'330px'}} src={'icons/Auto Virtual Reality.webp'} alt={''} />
         <h2 style={{margin:'0px'}}>XR</h2>
         <p style={{margin:'10px'}}>Easily integrate 3D models into AR and VR apps to showcase your clients using our custom solutions for XR</p>
-        <button className='button2'>Know more</button>
+        {/* <button className='button2'>Know more</button> */}
     </div>
     <div className='subsectioncontainer'>
         <img style={{borderRadius:'30px', height:'270px', width:'330px'}} src={'icons/Yellow Couch.webp'} alt={''} />
         <h2 style={{margin:'0px'}}>eCommerce</h2>
         <p style={{margin:'10px'}}>We can provide infra to showcase 3D models in your site and easily integrate with exisitng tech.</p>
-        <button className='button2'>Know more</button>
+        {/* <button className='button2'>Know more</button> */}
     </div>
     </div>
     </div>
     
        
-        <FAQSection data={faqData} />
+        {/* <FAQSection data={faqData} /> */}
         
    
     </>
